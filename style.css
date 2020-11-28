@@ -47,14 +47,15 @@ body {
     padding: .5em 1em;
   }
   
-  .photos {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: grid;
-    grid-gap: 1px;
-    grid-template-columns: 1fr 1fr;
-  }
+.first{
+  margin-left:0;
+}
+.second{
+  margin-left:30px;
+}
+.third{
+  margin-left:60px;
+}
 
   .feature {
       width: 200px;
