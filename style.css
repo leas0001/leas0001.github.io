@@ -51,6 +51,13 @@ body {
 .third{
   margin-left:90px;
 }
+.fourth{
+	margin-left:120px;
+}
+
+.About{
+	list-style-type:none;
+}
 
   .feature {
       width: 200px;
